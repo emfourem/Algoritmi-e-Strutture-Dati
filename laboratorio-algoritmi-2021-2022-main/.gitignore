@@ -1,0 +1,9 @@
+.DS_Store
+*.csv
+*.docx
+.vscode
+Esercizio1/bin
+Esercizio1/build
+Esercizio2/bin
+Esercizio2/build
+Esercizio2/*.txt
